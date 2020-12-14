@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/first-lego-league.org"
+                 "value":"https:\/\/www.first-lego-league.org"
                 }],
          "type":"tilelayer",
          "visible":true,
