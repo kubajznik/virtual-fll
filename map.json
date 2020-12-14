@@ -37,7 +37,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/google.de\/"
+                 "value":"https:\/\/timer.hands-on-technology.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
