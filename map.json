@@ -21,12 +21,6 @@
          "id":20,
          "name":"wall",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
@@ -349,6 +343,15 @@
          "tilecount":64,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":36,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
                 {
                  "id":54,
                  "properties":[
