@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.youtube.com\/watch?v=v7ScGV5128A"
+                 "value":"http:\/\/rickroll.jakub.st\/"
                 }],
          "type":"tilelayer",
          "visible":true,
