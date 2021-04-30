@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=v7ScGV5128A"
+                 "value":"http:\/\/www.youtube.com\/watch?v=v7ScGV5128A"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -322,7 +322,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":25,
          "x":0,
          "y":0
