@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/timer.hands-on-technology.org\/"
+                 "value":"https:\/\/rickroll.jakub.st"
                 }],
          "type":"tilelayer",
          "visible":true,
