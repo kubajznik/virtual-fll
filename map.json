@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/rickroll.jakub.st\/"
+                 "value":"https:\/\/rickroll.jakub.st\/"
                 }],
          "type":"tilelayer",
          "visible":true,
