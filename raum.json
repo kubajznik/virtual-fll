@@ -347,9 +347,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openUrl",
                  "type":"string",
-                 "value":"kiosk"
+                 "value":"https:\/\/www.ecosia.org\/search?q=lieferdienst+in+meiner+n%C3%A4he"
                 }],
          "type":"tilelayer",
          "visible":true,
