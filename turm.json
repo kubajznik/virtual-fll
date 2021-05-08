@@ -28,7 +28,7 @@
                  "value":"turmkeller.json#start"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -40,7 +40,7 @@
          "name":"solid",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
