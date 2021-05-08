@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jakub.st\/gotobasement.html"
+                 "value":"http:\/\/jakub.st\/gotobasement.html"
                 }],
          "type":"tilelayer",
          "visible":true,
