@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"turm.json#start"
+                 "value":"tower.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
