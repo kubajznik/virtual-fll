@@ -349,7 +349,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/duckduckgo.com\/?q=lieferdienst+in+meiner+n%C3%A4he"
+                 "value":"https:\/\/kiosk.jakub.st"
                 }],
          "type":"tilelayer",
          "visible":true,
