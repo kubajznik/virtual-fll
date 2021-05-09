@@ -217,19 +217,6 @@
          "tilewidth":32
         }, 
         {
-         "columns":62,
-         "firstgid":10071,
-         "image":"9d22440ca9cf5bc5a39317085f9781ae_eintritt-frei-berlin-karte-1.jpg",
-         "imageheight":1821,
-         "imagewidth":2000,
-         "margin":0,
-         "name":"test",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":120,
          "firstgid":10071,
          "image":"sm64-reloaded-06.jpg",
