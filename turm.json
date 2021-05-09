@@ -41,7 +41,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/done.jakub.st"
                 }],
