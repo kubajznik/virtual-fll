@@ -349,7 +349,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ecosia.org\/search?q=lieferdienst+in+meiner+n%C3%A4he"
+                 "value":"https:\/\/duckduckgo.com\/?q=lieferdienst+in+meiner+n%C3%A4he&t=hd&va=u&ia=web"
                 }],
          "type":"tilelayer",
          "visible":true,
