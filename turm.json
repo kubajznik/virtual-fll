@@ -43,7 +43,7 @@
                 {
                  "name":"openUrl",
                  "type":"string",
-                 "value":"https:\/\/done.jakub.st"
+                 "value":"https:\/\/rickroll.jakub.st"
                 }],
          "type":"tilelayer",
          "visible":true,
