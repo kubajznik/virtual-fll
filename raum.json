@@ -347,7 +347,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openUrl",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ecosia.org\/search?q=lieferdienst+in+meiner+n%C3%A4he"
                 }],
